@@ -10,6 +10,7 @@ namespace _11._Clever_Lily
             double washMashinePrice = double.Parse(Console.ReadLine());
             double toyPrice = double.Parse(Console.ReadLine());
 
+
         }
     }
 }
