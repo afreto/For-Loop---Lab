@@ -10,7 +10,6 @@ namespace _06._Vowels_Sum
             int sum = 0;
             for (int i = 0; i < word.Length; i++)
             {
-
                 char cha = word[i];
                 switch (cha.ToString())
                 {

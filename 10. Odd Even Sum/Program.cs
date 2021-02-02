@@ -7,7 +7,7 @@ namespace _10._Odd_Even_Sum
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             int evenSum = 0;
             int oddSum = 0;
             int n = int.Parse(Console.ReadLine());

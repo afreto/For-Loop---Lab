@@ -5,7 +5,7 @@ namespace _08._Number_sequence
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             int n = int.Parse(Console.ReadLine());
             int minVal = int.MaxValue;
             int maxVal = int.MinValue;
